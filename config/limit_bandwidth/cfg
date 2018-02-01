@@ -1,0 +1,9 @@
+{
+    "user"        : "mike@gmail.com",
+    "password"    : "Mike01",
+    "device"      : "NodeMike",
+
+    "allow"       : [ 22 ],
+
+    "limitUpload" : 1000000
+}

@@ -1,0 +1,1 @@
+User john@gmail.com with password John01 and device NodeJohn establishes connection to device NodeMike from cloud mike@gmail.com. Mike's device listens on port 80 while John sets local forwarding port 1234 to access Mike's device. To access Mike's port 80, John just has to go to local port 1234.

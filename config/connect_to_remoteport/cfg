@@ -1,0 +1,12 @@
+{
+    "user"     : "john@gmail.com",
+    "password" : "John01",
+    "device"   : "NodeJohn",
+
+    "tunnels"  : [
+                   {"cloud"      : "mike@gmail.com",
+                    "device"     : "NodeMike",
+                    "port"       : 80,
+                    "portLocal"  : 1234 }
+                 ]
+}
